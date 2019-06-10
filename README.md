@@ -1,2 +1,2 @@
-# ssr
-SSR - Search Serial Number. Search items by S/N.
+# ssn
+SSN - Search Serial Number. Search items by S/N.
